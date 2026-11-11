@@ -1,0 +1,10 @@
+{
+  "description": "A learning app for students and teachers to access course announcements, weekly essay topics, attendance, writing feedback, and class materials.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
